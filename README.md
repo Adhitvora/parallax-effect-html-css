@@ -10,7 +10,7 @@ A simple and smooth parallax scrolling layout demonstrating background movement 
 HTML, CSS
 
 ## Live Demo
-(Will be added after deployment)
+https://Adhitvora.github.io/parallax-effect-html-css/
 
 ## Learning Outcome
 - CSS background-attachment
